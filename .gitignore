@@ -4,5 +4,5 @@ __pycache__/
 *.pyd
 *.DS_Store
 .env
-.venv/
+venv/
 *.ipynb_checkpoints/

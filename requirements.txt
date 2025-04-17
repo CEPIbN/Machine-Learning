@@ -3,6 +3,7 @@ pandas
 opencv-python
 matplotlib
 jupyter
+mediapipe
 
 # Установка dlib из локального файла
-./libs/dlib-19.22.99-cp310-cp310-win_amd64.whl
+#./libs/dlib-19.22.99-cp310-cp310-win_amd64.whl

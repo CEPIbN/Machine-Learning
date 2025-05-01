@@ -8,3 +8,5 @@ __pycache__/
 *.ipynb_checkpoints/
 data/
 libs/
+*/logic_ethics_classifier.pkl
+*/subtype_classifier.pkl

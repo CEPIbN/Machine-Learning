@@ -3,6 +3,7 @@ pandas
 opencv-python
 matplotlib
 jupyter
+mediapipe
 
 # Установка dlib из локального файла
 ./libs/dlib-19.22.99-cp38-cp38-win_amd64.whl

@@ -6,3 +6,7 @@ __pycache__/
 .env
 venv/
 *.ipynb_checkpoints/
+data/
+libs/
+*/logic_ethics_classifier.pkl
+*/subtype_classifier.pkl

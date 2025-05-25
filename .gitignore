@@ -11,3 +11,6 @@ libs/
 */logic_ethics_classifier.pkl
 */subtype_classifier.pkl
 all_data/
+*/*.csv
+*.csv
+output_landmarks/*

@@ -14,3 +14,4 @@ all_data/*/*
 */*.csv
 *.csv
 output_landmarks/*
+binary_data/

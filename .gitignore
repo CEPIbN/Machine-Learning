@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+.env
+.venv/
+*.ipynb_checkpoints/
+data/
+libs/
+*/logic_ethics_classifier.pkl
+*/subtype_classifier.pkl
+all_data/*/*
+*/*.csv
+*.csv
+output_landmarks/*
